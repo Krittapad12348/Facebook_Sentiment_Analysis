@@ -1,4 +1,4 @@
-# Facebook_Sentiment_Analysis\
+# Facebook_Sentiment_Analysis
 1.Sentiment Analysis is on Text_clustering_wb.ipynb file. \
 2.Sentiment Dashboard is on Sentiment_Analysis_Dashboard_Krittapad.pdf.\
 3.fb_data.xlsx file is input of Text_clustering_wb.ipynb file.\
